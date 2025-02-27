@@ -7,6 +7,11 @@ Código para probar en local:
 npx quartz build --serve
 ```
 
+Código para subir a Github:
+```
+npx quartz sync
+```
+
 
 # Quartz v4
 
